@@ -22,10 +22,10 @@ $('#footer-menu li a').on('click', function(event) {
 
 $('#buscar_caminho').on('click', function(e) {
     e.preventdefault()
-    if (navigator.geolocation) { 
+    if (navigator.geolocation) {
         navigator.geolocation.getCurrentPosition(function(position) {
 
-        var point = new google.maps.LatLng(position.coords.latitude, 
+        var point = new google.maps.LatLng(position.coords.latitude,
                                     position.coords.longitude);
         calcRoute(point);
         });
@@ -44,38 +44,38 @@ $('.schedule-tbl a').on('click', function(event) {
 });
 
 //map
-var directionsDisplay;
-var directionsService = new google.maps.DirectionsService();
-var map;
-var latitude = -30.0351002;
-var longitude = -51.2265906;
-var ftec = new google.maps.LatLng(latitude, longitude);
-directionsDisplay = new google.maps.DirectionsRenderer();
-var mapOptions = {
-  zoom:15,
-  center: ftec,
-  streetViewControl: false,
-  panControl: true,
-  overviewMapControl: true,
-  zoomControl: true,
-  scaleControl: true
+function setMap(latitude, longitude) {
+    var directionsDisplay;
+    var directionsService = new google.maps.DirectionsService();
+    var map;
+    var gps = new google.maps.LatLng(latitude, longitude);
+    directionsDisplay = new google.maps.DirectionsRenderer();
+    var mapOptions = {
+      zoom:15,
+      center: gps,
+      streetViewControl: false,
+      panControl: true,
+      overviewMapControl: true,
+      zoomControl: true,
+      scaleControl: true
+    }
+    map = new google.maps.Map(document.getElementById('map_canvas'), mapOptions);
+    directionsDisplay = new google.maps.DirectionsRenderer();
+    directionsDisplay.setMap(map);
+    directionsDisplay.setPanel(document.getElementById('directions-panel'));
+    var marker = new google.maps.Marker({
+                  position: gps,
+                  map: map,
+                  title:"Evento Tchelinux"
+    });
 }
-map = new google.maps.Map(document.getElementById('map_canvas'), mapOptions);
-directionsDisplay = new google.maps.DirectionsRenderer();
-directionsDisplay.setMap(map);
-directionsDisplay.setPanel(document.getElementById('directions-panel'));
-var marker = new google.maps.Marker({
-              position: ftec,
-              map: map,
-              title:"FTEC Caxias do Sul"
-});
 
 function calcRoute(starte) {
   var start = document.getElementById("search-route").value;
   if(starte != undefined) {
     start = starte;
   }
-  var end = ftec;
+  var end = gps;
   var request = {
       origin:start,
       destination:end,
@@ -102,7 +102,7 @@ google.maps.event.addListener(autocomplete, 'place_changed', function() {
 
 document.getElementById("search-route").addEventListener("keypress", function(e){
     if (e.keyCode == 13) {
-        calcRoute(); 
+        calcRoute();
         return false;
     }
 });
