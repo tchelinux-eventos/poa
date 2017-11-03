@@ -14,6 +14,18 @@
     "sponsors": [
     ],
     "support": [
+        {
+            "long_name": "Py[Tchê]",
+            "short_name": "Py[Tchê]",
+            "url" : " https://www.meetup.com/preview/PyTche",
+            "logo": "logo_pytche.png"
+        },
+        {
+            "long_name": "PHP-RS",
+            "short_name": "PHP-RS",
+            "url" : "http://www.phprs.com.br",
+            "logo": "PHPRS.png"
+        }
     ],
     "rooms" : [
         { "number": "1", "subject": "" },
