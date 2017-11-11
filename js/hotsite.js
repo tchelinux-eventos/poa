@@ -19,13 +19,16 @@ function other_day(date, incr) {
 }
 
 function fulldate(date, backup) {
-    if (date != null)
-        return (new Date(date+" 12:00")).toLocaleDateString("pt-BR",{"day":"numeric","month":"long","year":"numeric"})
-    return backup.toLocaleDateString("pt-BR",{"day":"numeric","month":"long","year":"numeric"})
+    if (date != null) {
+        d = (new Date(date+"T12:00")).toLocaleDateString("pt-BR",{"day":"numeric","month":"long","year":"numeric"})
+        return d
+    }
+    d = backup.toLocaleDateString("pt-BR",{"day":"numeric","month":"long","year":"numeric"})
+    return d
 }
 
 function fillData(evt) {
-    var evtdate = new Date(evt.date)
+    var evtdate = new Date(evt.date+"T12:00")
     var year = evtdate.toLocaleDateString("pt-BR", {"year":"numeric"})
     document.title = 'TcheLinux - ' + evt.city + ' - ' + year
 
