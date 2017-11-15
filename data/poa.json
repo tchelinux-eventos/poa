@@ -8,10 +8,10 @@
     "date": "2017-12-09",
     "enrollment": {
         "availability": 300,
-        "closed": true,
+        "closed": false,
         "deadline": "2017-12-08",
         "start": "2017-11-15",
-        "url": ""
+        "url": "https://goo.gl/forms/14UWywX6TRFBKeGr2"
     },
     "id": "poa",
     "institution": {
