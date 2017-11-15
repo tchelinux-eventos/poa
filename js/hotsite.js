@@ -1,6 +1,13 @@
 var latitude = 0.0;
 var longitude = 0.0;
 
+var loaded = false;
+
+function jump(tag) {
+    history.pushState(null,null,location.href);
+    document.getElementById(tag).scrollIntoView();
+}
+
 function hotsite(cname) {
     $.ajax({
         cached: true,
@@ -103,8 +110,12 @@ function createSchedule(evt) {
     var rooms = evt.rooms.length
     evt.rooms.forEach(function(r) {
         var td = $('<td>',{class:"schedule-slot",text:"Sala "+r.number})
-        if (r.subject && r.subject != "") {
-            var sm = $('<small>',{text:r.subject}).css("font-style","italic")
+        if (r.subject != null && r.subject != "") {
+            var sm = $('<small>',{text:r.subject})
+                .css("font-style","italic")
+                .css("display","block")
+                .css("font-weight","lighter")
+            td.append(sm)
         }
         row.append(td)
     })
@@ -115,18 +126,18 @@ function createSchedule(evt) {
         row = $('<tr>',{class:"scheldule-other"})
         row.append($('<td>',{class:"schedule-time",text:slot, colspan:1}))
         var sv = evt.schedule[slot].length
-        var pat = /(principiante|intermediario|avan[cç]ado)/i
+        var pat = /(principiante|intermedi[aá]rio|avan[cç]ado)/i
         evt.schedule[slot].forEach(function(palestra){
             var p = $('<td>',{class:"schedule-slot", colspan: (rooms-sv)+1})
             row.append(p)
-            p.append($("<a>", {href:"#speech-"+speech,}).append($("<span>",{class:"description",text:palestra.title})))
+            p.append($("<a>", {href:"javascript:jump('speech-"+speech+"')",}).append($("<span>",{class:"description",text:palestra.title})))
             if (palestra.level.match(pat))
                 $('#palestras > div').append(infoPalestra(speech,slot,palestra))
             if (palestra.level == "Principiante") {
                 p.append($("<span>",{class:"label label-success", text:"Principiante"}))
-            } else if (palestra.level == "Intermediario") {
+            } else if (palestra.level.match(/intermedi[aá]rio/i)) {
                 p.append($("<span>",{class:"label label-warning", text:"Intermediário"}))
-            } else if (palestra.level == "Avancado") {
+            } else if (palestra.level.match(/avan[cç]ado/i)) {
                 p.append($("<span>",{class:"label label-danger", text:"Avançado"}))
             } else {
                 if (palestra.keywords == "encerramento") {
