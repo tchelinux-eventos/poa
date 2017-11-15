@@ -302,10 +302,10 @@
                 "abstract": "Durante os \u00faltimos meses trabalhei na constru\u00e7\u00e3o de um ambiente de desenvolvimento para garantir entregas com maior agilidade dos projetos que desenvolvo com WordPress. Vou compartilhar essa experi\u00eancia de como o projeto evoluiu, qual o estado atual dele e como outros desenvolvedores pode colaborar com o projeto. ",
                 "author": "Eduardo Pittol",
                 "keywords": "wordpress, web, cms, desenvolvimento, docker, frontend, deploy",
-                "level": "Intermedi\u00e1rio",
+                "level": "Avan\u00e7ado",
                 "resume": "Cientista da Computa\u00e7\u00e3o formado pela Unisinos. Desenvolvolvedor web h\u00e1 9 anos e a 7 trabalhando com WordPress. Apaixonado pela cultura open source. Ativo em comunidades de empreendedorismo e de tecnologia do RS. Cara da tecnologia da Aztec Online Solutions. Empresa focada em solu\u00e7\u00f5es para WordPress. Facilitador do Startup Weekend. Um dos idealizadores do Taquari Valley, uma comunidade que fomenta o empreendedorismo no Vale do Taquari, Rio Grande do Sul. Talk is cheap, show me the code.",
                 "room": "6",
-                "title": "Como crescer em comunidade"
+                "title": "Desenvolvendo WordPress com Docker, Webpack e Deployer"
             }
         ],
         "15:00": [
