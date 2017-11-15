@@ -1,11 +1,11 @@
 var latitude = 0.0;
 var longitude = 0.0;
 
-var loaded = false;
-
 function jump(tag) {
     history.pushState(null,null,location.href);
-    document.getElementById(tag).scrollIntoView();
+    //document.getElementById(tag).scrollIntoView();
+    var top = document.getElementById(tag).offsetTop; //Getting Y of target element
+    window.scrollTo(0, top);
 }
 
 function hotsite(cname) {
@@ -130,7 +130,10 @@ function createSchedule(evt) {
         evt.schedule[slot].forEach(function(palestra){
             var p = $('<td>',{class:"schedule-slot", colspan: (rooms-sv)+1})
             row.append(p)
-            p.append($("<a>", {href:"javascript:jump('speech-"+speech+"')",}).append($("<span>",{class:"description",text:palestra.title})))
+            var t = 'speech-'+speech
+            var anchor = $("<a>",{onclick:"jump('"+t+"')"})
+                .append($("<span>",{class:"description",text:palestra.title}))
+            p.append(anchor)
             if (palestra.level.match(pat))
                 $('#palestras > div').append(infoPalestra(speech,slot,palestra))
             if (palestra.level == "Principiante") {
