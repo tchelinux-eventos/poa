@@ -400,6 +400,12 @@
             "long_name": "PHP-RS",
             "short_name": "PHP-RS",
             "url": "http://www.phprs.com.br"
+        },
+        {
+            "logo": "doseextra.jpg",
+            "long_name": "Dose Extra Multimídia",
+            "short_name": "Dose Extra",
+            "url": " https://doseextra.com"
         }
     ]
 }
