@@ -19,23 +19,29 @@ function hotsite(cname) {
     })
 }
 
-function other_day(date, incr) {
-    var nd = new Date()
-    nd.setDate(date.getDate() + incr)
+function other_day(dt, incr) {
+    var nd = date(dt)
+    nd.setDate(date + incr)
     return nd
 }
 
-function fulldate(date, backup) {
+function fulldate(dt, backup) {
     if (date != null) {
-        d = (new Date(date+"T12:00")).toLocaleDateString("pt-BR",{"day":"numeric","month":"long","year":"numeric"})
+        d = date(dt).toLocaleDateString("pt-BR",{"day":"numeric","month":"long","year":"numeric"})
         return d
     }
     d = backup.toLocaleDateString("pt-BR",{"day":"numeric","month":"long","year":"numeric"})
     return d
 }
 
+function date(dt) {
+    var d = new Date(dt+"T00:00Z")
+    d.setTime( d.getTime() + d.getTimezoneOffset()*60*1000 )
+    return d
+}
+
 function fillData(evt) {
-    var evtdate = new Date(evt.date+"T12:00")
+    var evtdate = date(evt.date)
     var year = evtdate.toLocaleDateString("pt-BR", {"year":"numeric"})
     document.title = 'TcheLinux - ' + evt.city + ' - ' + year
 
@@ -77,7 +83,7 @@ function fillData(evt) {
 
 function schedule(evt, evtdate) {
     var tdy = new Date()
-    if (tdy <= (new Date(evt.callForPapers.deadline)) && tdy <= evtdate) {
+    if (tdy <= date(evt.callForPapers.deadline) && tdy <= evtdate) {
         $('#cfp_end').text(fulldate(evt.callForPapers.deadline,other_day(evtdate,-13)))
         $('#cfp_notice').text(fulldate(evt.callForPapers.notification,other_day(evtdate,-10)))
         $('.cfp_form').attr('href',evt.callForPapers.url)
@@ -176,13 +182,18 @@ function enrollment(evt, eventdate) {
 
     $("#pre-enrollment").hide()
     $("#in-enrollment").hide()
+    $("#do-enrollment").hide()
     $("#post-enrollment").hide()
 
     var tdy = new Date()
     if (tdy <= eventdate) {
-        if (tdy >= (new Date(evt.enrollment.start)) && tdy < (new Date(evt.enrollment.deadline)) && !evt.enrollment.closed)
+        if (tdy >= date(evt.enrollment.start)  && tdy < date(evt.enrollment.deadline) && !evt.enrollment.closed)
         {
             $("#in-enrollment").show()
+            $("#do-enrollment").append($("<a>",{href:evt.enrollment.url,text:"Inscreva-se agora!"}))
+                .css("font-size","24px")
+                .css("font-weight","bolder")
+            $("#do-enrollment").show()
         } else {
             $("#pre-enrollment").show()
         }
