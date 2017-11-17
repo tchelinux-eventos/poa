@@ -387,7 +387,14 @@
             }
         ]
     },
-    "sponsors": [],
+    "sponsors": [
+        {
+            "logo": "umbler.png",
+            "long_name": "Umbler",
+            "short_name": "Umbler",
+            "url": " https://www.umbler.com"
+        }
+    ],
     "support": [
         {
             "logo": "logo_pytche.png",
