@@ -44,31 +44,29 @@ $('.schedule-tbl a').on('click', function(event) {
 });
 
 //map
-function setMap(latitude, longitude) {
-    var directionsDisplay;
-    var directionsService = new google.maps.DirectionsService();
-    var map;
-    var gps = new google.maps.LatLng(latitude, longitude);
-    directionsDisplay = new google.maps.DirectionsRenderer();
-    var mapOptions = {
-      zoom:15,
-      center: gps,
-      streetViewControl: false,
-      panControl: true,
-      overviewMapControl: true,
-      zoomControl: true,
-      scaleControl: true
-    }
-    map = new google.maps.Map(document.getElementById('map_canvas'), mapOptions);
-    directionsDisplay = new google.maps.DirectionsRenderer();
-    directionsDisplay.setMap(map);
-    directionsDisplay.setPanel(document.getElementById('directions-panel'));
-    var marker = new google.maps.Marker({
-                  position: gps,
-                  map: map,
-                  title:"Evento Tchelinux"
-    });
+var directionsDisplay;
+var directionsService = new google.maps.DirectionsService();
+var map;
+var gps = new google.maps.LatLng(latitude, longitude);
+directionsDisplay = new google.maps.DirectionsRenderer();
+var mapOptions = {
+  zoom:15,
+  center: gps,
+  streetViewControl: false,
+  panControl: true,
+  overviewMapControl: true,
+  zoomControl: true,
+  scaleControl: true
 }
+map = new google.maps.Map(document.getElementById('map_canvas'), mapOptions);
+directionsDisplay = new google.maps.DirectionsRenderer();
+directionsDisplay.setMap(map);
+directionsDisplay.setPanel(document.getElementById('directions-panel'));
+var marker = new google.maps.Marker({
+              position: gps,
+              map: map,
+              title:"gps Caxias do Sul"
+});
 
 function calcRoute(starte) {
   var start = document.getElementById("search-route").value;
