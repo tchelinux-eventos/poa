@@ -6,13 +6,13 @@ O grupo de usuários de Software Livre Tchelinux, em parceria com a [**Faculdade
 
 ## Chamada de Trabalhos
 
-A Chamada de Trabalhos está aberta e o **prazo para submissão** de propostas de palestra é **12 de Outubro de 2019**. Os trabalhos escolhidos serão anúnciados no dia **14 de Outubro de 2019**.
+A Chamada de Trabalhos está aberta e o **prazo para submissão** de propostas de palestra é **20 de Outubro de 2019**. Os trabalhos escolhidos serão anúnciados no dia **26 de Outubro de 2019**.
 
 <center><a href="https://poa.tchelinux.org/cfp/" style="color:#ff4040"><h3><b>Clique aqui e submeta sua palestra agora mesmo!</b></h3></a></center>
 
 ## Inscrições
 
-As inscrições estarão abertas a partir do dia 14 de Outubro de 2019, quando a **programação do evento** for anunciada.
+As inscrições estarão abertas a partir do dia **26 de Outubro de 2019**, quando a programação do evento for anunciada.
 
 O evento tem **entrada franca**, porém os participantes são encorajados a doar 2kg de alimentos não perecíveis (exceto sal), que são doados a instituições de caridade da região.
 
