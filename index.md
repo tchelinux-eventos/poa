@@ -2,7 +2,7 @@
 
 ## Sobre
 
-O grupo de usuários de Software Livre Tchelinux, em parceria com a [**Faculdade SENAC Porto Alegre**](http://senacrs.com.br/unidades.asp?unidade=63), tem o prazer de convidar a comunidade para participar do evento que ocorrerá no dia **12 de Dezembro de 2019 a partir das 8:00h** na FSPOA em Porto Alegre.
+O grupo de usuários de Software Livre Tchelinux, em parceria com a [**Faculdade SENAC Porto Alegre**](http://senacrs.com.br/unidades.asp?unidade=63), tem o prazer de convidar a comunidade para participar do evento que ocorrerá no dia **14 de Dezembro de 2019 a partir das 8:00h** na FSPOA em Porto Alegre.
 
 ## Chamada de Trabalhos
 
