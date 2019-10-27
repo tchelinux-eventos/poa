@@ -38,7 +38,7 @@ O poder criativo e destrutivo do ser humano é incrível. Seja inconscientemente
 
 ### Jaydson Gomes
 
-[Jaydson Gomes](https://jaydson.com) trabalha com tecnologia desde o início dos anos 2000 e é​ desenvolvedor de software especializado em JavaScript. ​É sócio fundador da Nasc e da ​BrazilJS e curador/idealizador da ​BrazilJS Conf, uma das maiores conferências do mundo sobre a linguagem JavaScript. É editor da Newsletter BrazilJS Weekly e host do show BrazilJS Weekly no YouTube. Jaydson também é autor e editor no portal BrazilJS e escreve em seu blog pessoal. É um entusiasta open source e tem apresentado diversas palestras ao longo dos últimos anos, em sua grande maioria falando sobre JavaScript e tecnologias Web.
+[**Jaydson Gomes**](https://jaydson.com) trabalha com tecnologia desde o início dos anos 2000 e é​ desenvolvedor de software especializado em JavaScript. ​É sócio fundador da Nasc e da ​BrazilJS e curador/idealizador da ​BrazilJS Conf, uma das maiores conferências do mundo sobre a linguagem JavaScript. É editor da Newsletter BrazilJS Weekly e host do show BrazilJS Weekly no YouTube. Jaydson também é autor e editor no portal BrazilJS e escreve em seu blog pessoal. É um entusiasta open source e tem apresentado diversas palestras ao longo dos últimos anos, em sua grande maioria falando sobre JavaScript e tecnologias Web.
 
 ### Construa sua Cloud do zero com Open Source!
 
@@ -46,7 +46,7 @@ Como construir um ambiente de Cloud Computing do zero usando apenas software ope
 
 ### Marcos Sungaila
 
-[Marcos Sungaila](https://br.linkedin.com/in/marcossungaila) é Master Principal Sales Consultant na Oracle, Consultor e Arquiteto de Soluções OpenSource atuando nas áreas de infraestrutura de redes, cloud computing e segurança da informação, realizou inúmeras implantações Linux e Cloud Computing no meio corporativo. Projetos de integração de redes heterogêneas, auditoria e performance de servidores. Em 2018 no OpenStack Summit em Vancouver foi premiado como “Mentor of Mentors”. É autor do livro "Autenticação Centralizada com OpenLDAP". Arquiteto pelo Mackenzie -1995. Pós Graduação Engenharia de Redes pela FASP - 2001. Certificado Mirantis Cloud Platform, RHCA - Level 4, OpenStack-RHCSA-OSP, RHCE, RHCDS, RHCVA, RHCSA; LPI – Level I e II, Mandriva-Pro, SUSE CLA. Ministrou aulas na FIAP, Red Hat Brasil, Green, Infnet, DBA, HP, Universidade Católica de Brasília, PUC-SP, FESP/PR, FAINAM, BANDTEC e "in company" para várias empresas. Palestrante convidado nos eventos: Meetup – Savant (4) 2019; Inovabra - Bradesco 2019; Congresso de Tecnologia – PUC/GO 2019; TDC - Recife, São Paulo, Florianópolis 2019; Campus Party 2019, 2016; Oracle OpenWorld – SP 2018; CephDay SP 2018, 2017; OpenStackDay SP 2018, 2017, 2016; FLISOL – Santo André 2018; TDC - Florianópolis, São Paulo e Porto Alegre 2018; Latinoware 2018, 2017, 2016, 2015, 2014; Fedora 24 Release Party; Fórum de Software Livre - Faculdade Impacta – 2015; FAD 2013; Wecti-Unicid 2012/2010; Fatec-Jundiaí 2010; Tchelinux/RS 2009; Software Freedom Day/PR 2009; Eri-Co/DF 2008; Conisli/SP 2008. Ministrou treinamentos Linux para mais de 18.000 alunos.
+[**Marcos Sungaila**](https://br.linkedin.com/in/marcossungaila) é Master Principal Sales Consultant na Oracle, Consultor e Arquiteto de Soluções OpenSource atuando nas áreas de infraestrutura de redes, cloud computing e segurança da informação, realizou inúmeras implantações Linux e Cloud Computing no meio corporativo. Projetos de integração de redes heterogêneas, auditoria e performance de servidores. Em 2018 no OpenStack Summit em Vancouver foi premiado como “Mentor of Mentors”. É autor do livro "Autenticação Centralizada com OpenLDAP". Arquiteto pelo Mackenzie -1995. Pós Graduação Engenharia de Redes pela FASP - 2001. Certificado Mirantis Cloud Platform, RHCA - Level 4, OpenStack-RHCSA-OSP, RHCE, RHCDS, RHCVA, RHCSA; LPI – Level I e II, Mandriva-Pro, SUSE CLA. Ministrou aulas na FIAP, Red Hat Brasil, Green, Infnet, DBA, HP, Universidade Católica de Brasília, PUC-SP, FESP/PR, FAINAM, BANDTEC e "in company" para várias empresas. Palestrante convidado nos eventos: Meetup – Savant (4) 2019; Inovabra - Bradesco 2019; Congresso de Tecnologia – PUC/GO 2019; TDC - Recife, São Paulo, Florianópolis 2019; Campus Party 2019, 2016; Oracle OpenWorld – SP 2018; CephDay SP 2018, 2017; OpenStackDay SP 2018, 2017, 2016; FLISOL – Santo André 2018; TDC - Florianópolis, São Paulo e Porto Alegre 2018; Latinoware 2018, 2017, 2016, 2015, 2014; Fedora 24 Release Party; Fórum de Software Livre - Faculdade Impacta – 2015; FAD 2013; Wecti-Unicid 2012/2010; Fatec-Jundiaí 2010; Tchelinux/RS 2009; Software Freedom Day/PR 2009; Eri-Co/DF 2008; Conisli/SP 2008. Ministrou treinamentos Linux para mais de 18.000 alunos.
 
 ### Unix, o brotinho cinquentão
 
@@ -55,7 +55,7 @@ O ano de 2019 marca os 50 anos do lançamento do artigo “The Evolution of the 
 
 ### Carlos Santos
 
-[Carlos Santos](https://www.linkedin.com/in/unixmania/) é Engenheiro agrícola, acredite quem quiser (UFPel, 1988), Pesquisador bolsista (EMBRAPA, 1989-1993), Programador e gerente de redes (CPMet/UFPel, provedores de serviços Internet, 1993-1999), Mestre em Ciência da Computação, na área de Computação Gráfica (UFRGS, 1998-2000), Professor de CG, programação e redes (URI, Santo Ângelo, 2001-2005), Engenheiro de software (HP, 2005-2013), Engenheiro de manutenção de software (Red Hat, 2013-2014), Arquiteto de software (DATACOM, 2014-2019) e Engenheiro de manutenção de software, de novo (Red Hat, 2019-).
+[**Carlos Santos**](https://www.linkedin.com/in/unixmania/) é Engenheiro agrícola, acredite quem quiser (UFPel, 1988), Pesquisador bolsista (EMBRAPA, 1989-1993), Programador e gerente de redes (CPMet/UFPel, provedores de serviços Internet, 1993-1999), Mestre em Ciência da Computação, na área de Computação Gráfica (UFRGS, 1998-2000), Professor de CG, programação e redes (URI, Santo Ângelo, 2001-2005), Engenheiro de software (HP, 2005-2013), Engenheiro de manutenção de software (Red Hat, 2013-2014), Arquiteto de software (DATACOM, 2014-2019) e Engenheiro de manutenção de software, de novo (Red Hat, 2019-).
 
 
 ### Os bastidores da criação do htop
@@ -64,7 +64,7 @@ Nesta palestra veremos os bastidores da criação do gerenciador de processos [h
 
 ### Hisham Muhammad
 
-[Hisham Muhammad](https://hisham.hm/about) possui Doutorado na área de Linguagens de Programação pela [PUC-Rio](http://www.puc-rio.br/) e trabalha como mantenedor do [LuaRocks](https://luarocks.org/), um gerenciador de pacotes para a [Linguagem Lua](https://www.lua.org/) para a (Kong)[https://konghq.com/]. Desenvolvedor de uma série de projetos de software livre escritos em diferentes linguagens, é o criador e mantenedor do gerenciador de processos [htop](https://hisham.hm/htop/) e co-fundador da distribuição [GoboLinux](http://gobolinux.org/).
+[**Hisham Muhammad**](https://hisham.hm/about) possui Doutorado na área de Linguagens de Programação pela [PUC-Rio](http://www.puc-rio.br/) e trabalha como mantenedor do [LuaRocks](https://luarocks.org/), um gerenciador de pacotes para a [Linguagem Lua](https://www.lua.org/) para a (Kong)[https://konghq.com/]. Desenvolvedor de uma série de projetos de software livre escritos em diferentes linguagens, é o criador e mantenedor do gerenciador de processos [htop](https://hisham.hm/htop/) e co-fundador da distribuição [GoboLinux](http://gobolinux.org/).
 
 
 ### Uma introdução ao OpenALPR
@@ -73,7 +73,7 @@ A leitura automática de placas de veículos é uma aplicação de visão comput
 
 ### Marco Aurélio Souza Mangan
 
-[Marco Aurélio Souza Mangan](https://github.com/masmangan) é Graduado (1995) e Mestre (1998) em Ciência da Computação pelo Instituto de Informática/UFRGS e doutorado em Engenharia de Sistemas e Computação pelo PESC/UFRJ (2006). Atualmente é professor da Escola Politécnica/PUCRS. Os principais interesses são ensino, teoria e prática de desenvolvimento de software.
+[**Marco Aurélio Souza Mangan**](https://github.com/masmangan) é Graduado (1995) e Mestre (1998) em Ciência da Computação pelo Instituto de Informática/UFRGS e doutorado em Engenharia de Sistemas e Computação pelo PESC/UFRJ (2006). Atualmente é professor da Escola Politécnica/PUCRS. Os principais interesses são ensino, teoria e prática de desenvolvimento de software.
 
 ### Diversão com Perf, Ftrace e Bpftrace
 
@@ -81,7 +81,7 @@ Como utilizar de forma criativa algumas das principais ferramentas de depuraçã
 
 ### Luis Claudio Rodrigues Gonçalves
 
-Luis Claudio Rodrigues Gonçalves é usuário de Linux desde 1994, curioso. Membro do Tchelinux desde os primórdios, apaixonado pela idéia do Software Livre. Trabalha na Red Hat como membro da equipe de Real Time.
+**Luis Claudio Rodrigues Gonçalves** é usuário de Linux desde 1994, curioso. Membro do Tchelinux desde os primórdios, apaixonado pela idéia do Software Livre. Trabalha na Red Hat como membro da equipe de Real Time.
 
 
 ### Mecanismos anti-exploit no Kernel Linux
@@ -90,7 +90,7 @@ O objetivo é demonstrar algumas das vulnerabilidades que podem ser encontradas 
 
 ### Roner de Castro Rodrigues
 
-[Roner de Castro Rodrigues](https://github.com/Ansatsuken1337x/) é Graduando no curso de Engenharia de Computação na Unipampa Campus Bagé e trabalha atualmente como desenvolvedor Delphi com SQL.
+[**Roner de Castro Rodrigues**](https://github.com/Ansatsuken1337x/) é Graduando no curso de Engenharia de Computação na Unipampa Campus Bagé e trabalha atualmente como desenvolvedor Delphi com SQL.
 
 ### O que fazer (e o que não fazer) em desenvolvimento de sistemas embarcados
 
@@ -98,7 +98,7 @@ Com base na experiência e tempo dedicados ao desenvolvimento e customização d
 
 ### Otavio Salvador
 
-[Otavio Salvador](https://github.com/otavio) é empresário, escritor e entusiasta de Software Livre. Está envolvido com desenvolvimento de Linux Embarcado desde 2008 em diferentes indústrias.
+[**Otavio Salvador**](https://github.com/otavio) é empresário, escritor e entusiasta de Software Livre. Está envolvido com desenvolvimento de Linux Embarcado desde 2008 em diferentes indústrias.
 
 ### O que é essencial na atualização de firmware OTA e por que UpdateHub?
 
@@ -106,7 +106,7 @@ Atualizações de firmware OTA são críticas em diversos dispositivos. Nessa pa
 
 ### Diandra Martini
 
-[Diandra Martini](https://www.linkedin.com/in/diandramartini/) é Business Analyst na O.S. Systems, empresa especializada em Linux embarcado, onde atua na área comercial, de marketing e vendas. Tem formação em Relações Internacionais e Ciência Política pela UFPel, é entusiasta de IoT e grande admiradora da filosofia Open Source.
+[**Diandra Martini**](https://www.linkedin.com/in/diandramartini/) é Business Analyst na O.S. Systems, empresa especializada em Linux embarcado, onde atua na área comercial, de marketing e vendas. Tem formação em Relações Internacionais e Ciência Política pela UFPel, é entusiasta de IoT e grande admiradora da filosofia Open Source.
 
 ### Atualizações OTA e o Android OS
 
@@ -114,7 +114,7 @@ Sendo o sistema operacional mais utilizado no mundo inteiro, o Android conta com
 
 ### Patric Dutra
 
-[Patric Dutra](https://www.linkedin.com/in/patric-dutra-a707ba196/) é formado na primeira turma de Análise e Desenvolvimento de Sistemas do IFSul - Campus Bagé, atualmente cursando Design Digital na Universidade Federal de Pelotas e estagiário desenvolvimento na O.S. Systems
+[**Patric Dutra**](https://www.linkedin.com/in/patric-dutra-a707ba196/) é formado na primeira turma de Análise e Desenvolvimento de Sistemas do IFSul - Campus Bagé, atualmente cursando Design Digital na Universidade Federal de Pelotas e estagiário desenvolvimento na O.S. Systems
 
 
 ### Escrita acadêmica com o Latex
@@ -124,7 +124,7 @@ O objetivo da palestra é apresentar uma visão geral e o potencial do Latex par
 
 ### Patrícia Kayser Vargas Mangan
 
-[Patrícia Kayser Vargas Mangan](https://br.linkedin.com/in/patr%C3%ADcia-kayser-vargas-mangan-b12a7716) possui Graduação (1995) e Mestrado (1998) em Ciência da Computação pela UFRGS e Doutorado (2006) em Engenharia de Sistemas e Computação pela COPPE/Sistemas da UFRJ. É professora da UNILASALLE/Canoas-RS, vinculada ao Programa de Pós-Graduação em Memória Social e Bens Culturais pertencendo a linha de Memória e Linguagens Culturais e Diretora de Pesquisa e Pós-graduação Stricto Sensu.
+[**Patrícia Kayser Vargas Mangan**](https://br.linkedin.com/in/patr%C3%ADcia-kayser-vargas-mangan-b12a7716) possui Graduação (1995) e Mestrado (1998) em Ciência da Computação pela UFRGS e Doutorado (2006) em Engenharia de Sistemas e Computação pela COPPE/Sistemas da UFRJ. É professora da UNILASALLE/Canoas-RS, vinculada ao Programa de Pós-Graduação em Memória Social e Bens Culturais pertencendo a linha de Memória e Linguagens Culturais e Diretora de Pesquisa e Pós-graduação Stricto Sensu.
 
 
 ### Introdução a linha de comando e automação em Shell Script
@@ -141,7 +141,7 @@ Tópicos desta apresentação:
 
 ### Mateus Gabriel Müller
 
-[Mateus Gabriel Müller](https://www.linkedin.com/in/mateus-gabriel-m%C3%BCller-790709bb/) usa Linux desde 2014, trabalhou no time de suporte da Dell e hoje trabalha no suporte da SAP Labs em São Leopoldo.
+[**Mateus Gabriel Müller**](https://www.linkedin.com/in/mateus-gabriel-m%C3%BCller-790709bb/) usa Linux desde 2014, trabalhou no time de suporte da Dell e hoje trabalha no suporte da SAP Labs em São Leopoldo.
 
 ### Introdução ao NixOS
 
@@ -149,7 +149,7 @@ NixOS é uma distribuição Linux que utiliza a aproximação inovadora de aplic
 
 ### Victor Hugo Aguiar Pacce
 
-[Victor Hugo Aguiar Pacce](https://www.github.com/drakonis) atualmente um estudante de Ciência da Computação na Universidade de Santa Cruz do Sul.
+[**Victor Hugo Aguiar Pacce**](https://www.github.com/drakonis) atualmente um estudante de Ciência da Computação na Universidade de Santa Cruz do Sul.
 
 ### Entendendo o Systemd
 
@@ -157,7 +157,7 @@ O Systemd é o software hoje utilizado pela maioria das distribuições Linux pa
 
 ### João Avelino Bellomo Filho
 
-[João Avelino Bellomo Filho](https://www.linkedin.com/in/jo%C3%A3o-avelino-bellomo-filho-0b2229a/) é Tecnólogo em Processamento de Dados pela Universidade Católica de Pelotas, Mestre em Ciência da Computação pela Universidade Federal do Rio Grande do Sul. É usuário de Fedora Linux e atualmente é Desenvolvedor na Azion Technologies.
+[**João Avelino Bellomo Filho**](https://www.linkedin.com/in/jo%C3%A3o-avelino-bellomo-filho-0b2229a/) é Tecnólogo em Processamento de Dados pela Universidade Católica de Pelotas, Mestre em Ciência da Computação pela Universidade Federal do Rio Grande do Sul. É usuário de Fedora Linux e atualmente é Desenvolvedor na Azion Technologies.
 
 ### Bash do Dia a Dia
 
@@ -165,7 +165,7 @@ Ao auxiliar os desenvolvedores na equipe onde trabalho, notei que muitos somente
 
 ### Wanderson Henrique Camargo Rosa
 
-[Wanderson Henrique Camargo Rosa](https://wandersonwhcr.github.io) é Programador PHP Especialista na Uhuu e há mais de 10 anos trabalha com diferentes tecnologias para o desenvolvimento Web.
+[**Wanderson Henrique Camargo Rosa**](https://wandersonwhcr.github.io) é Programador PHP Especialista na Uhuu e há mais de 10 anos trabalha com diferentes tecnologias para o desenvolvimento Web.
 
 ### Introdução a agilidade e Scrum
 
@@ -173,7 +173,7 @@ Entenda alguns conceitos como: o que é ágil, raplexidade, a diferença entre t
 
 ### Marcus Vinicius Brum da Costa
 
-[Marcus Vinicius Brum da Costa](https://www.linkedin.com/in/marcusvbcosta/) tem 30 anos, é apaixonado por aprender, Agile Coach, SCRUM Master, Gerente de TI, Gerente de projetos e produtos, Arquiteto de software, Desenvolvedor e Empreendedor.
+[**Marcus Vinicius Brum da Costa**](https://www.linkedin.com/in/marcusvbcosta/) tem 30 anos, é apaixonado por aprender, Agile Coach, SCRUM Master, Gerente de TI, Gerente de projetos e produtos, Arquiteto de software, Desenvolvedor e Empreendedor.
 
 ### Soft Skills - As Habilidades do profissional de TI de destaque
 
@@ -181,7 +181,7 @@ Ser um bom profissional na área da Tecnologia da Informação até pouco tempo 
 
 ### Alisson Pereira Carvalho de Lima
 
-[Alisson Pereira Carvalho de Lima](http://alissonlima.com.br/) é Coach, Master Programador Neurolinguista e CTO. Estudou diretamente com o pai do Coaching Timothy Gallwey e suas certificações em PNL são reconhecidas internacionalmente. Iniciou sua carreira na TI em 2008 e em 2016, após perceber a grande dificuldade que muitos profissionais de TI possuem no desenvolvimento de habilidades não técnicas, como por exemplo a comunicação, gestão emocional e liderança, decidiu trabalhar com o desenvolvimento desses profissionais utilizando ferramentas reconhecidas ao redor do mundo todo por ajudar pessoas a terem realização na sua vida pessoal e profissional, o Coaching e a PNL.
+[**Alisson Pereira Carvalho de Lima**](http://alissonlima.com.br/) é Coach, Master Programador Neurolinguista e CTO. Estudou diretamente com o pai do Coaching Timothy Gallwey e suas certificações em PNL são reconhecidas internacionalmente. Iniciou sua carreira na TI em 2008 e em 2016, após perceber a grande dificuldade que muitos profissionais de TI possuem no desenvolvimento de habilidades não técnicas, como por exemplo a comunicação, gestão emocional e liderança, decidiu trabalhar com o desenvolvimento desses profissionais utilizando ferramentas reconhecidas ao redor do mundo todo por ajudar pessoas a terem realização na sua vida pessoal e profissional, o Coaching e a PNL.
 
 ### Conhecendo seus usuários com Matomo
 
@@ -189,7 +189,7 @@ O matomo é uma alternativa livre ao google analytics que prove informações pr
 
 ### Sidney Souza
 
-[Sidney Souza](https://github.com/lockland) é programador apaixonado por software livre, educação e natureza. Atualmente trabalha como programador na empresa Alright desenvolvendo tecnologia para conectar portais e anunciantes a fim de reduzir o custo do investimento com marketing digital para o anunciantes e aumentar o lucro dos portais que mostram essas propagandas.
+[**Sidney Souza**](https://github.com/lockland) é programador apaixonado por software livre, educação e natureza. Atualmente trabalha como programador na empresa Alright desenvolvendo tecnologia para conectar portais e anunciantes a fim de reduzir o custo do investimento com marketing digital para o anunciantes e aumentar o lucro dos portais que mostram essas propagandas.
 
 ### ...porque no MEU TEMPO: um comparativo dos dias atuais com 10+ anos atrás
 
@@ -197,7 +197,7 @@ Voltada para todos os tipos de público, é uma apresentação / comparação so
 
 ### Fabio Beneditto
 
-[Fabio Beneditto](about.me/fabiobeneditto) é Desenvolvedor Web, egresso da Feevale, Old School Nerd, simpatizante de F/OSS, segurança da informação e comunidades em geral. Voluntário Tchelinux desde 2016, é praticante de #mototerapia.
+[**Fabio Beneditto**](about.me/fabiobeneditto) é Desenvolvedor Web, egresso da Feevale, Old School Nerd, simpatizante de F/OSS, segurança da informação e comunidades em geral. Voluntário Tchelinux desde 2016, é praticante de #mototerapia.
 
 ### Considerações sobre 20 anos de experiência com Linux (software e hardware)
 
@@ -205,7 +205,7 @@ Considerações sobre 20 anos de experiência com Linux, sob um ponto de vista d
 
 ### Rudá Moura
 
-[Rudá Moura](https://rudamoura.com) é um humano preocupado com o futuro da tecnologia.
+[**Rudá Moura**](https://rudamoura.com) é um humano preocupado com o futuro da tecnologia.
 
 ### Tudo que você queria saber sobre a LGPD e não sabia pra quem perguntar!
 
@@ -213,7 +213,7 @@ A Lei Geral de Proteção de Dados é um conjunto de normas que tem visam proteg
 
 ### Marcos Lucas
 
-[Marcos Lucas](https://twitter.com/MarcosLucas) é Professor Universitário nos cursos de Ciência da Computação (URI) e Análise e Desenvolvimento de Sistemas (FAE). Gestor da empresa DATAWARE, pela qual é responsável pela infraestrutura de tecnologia de rede, servidores e nuvem de diversas empresas da região do Alto Uruguai. Profissional certificado ASSESPRO-RS em DPO e LGPD, é também Pós-graduado em Redes de Computadores e Mestre em Computação Aplicada (UPF) trabalhando com soluções embarcadas aplicadas ao campo de Engenharia Biomédica. Entusiasta de software livre, trabalhando com este de maneira profissional há quase duas décadas, tendo já contribuído em eventos da área.
+[**Marcos Lucas**](https://twitter.com/MarcosLucas) é Professor Universitário nos cursos de Ciência da Computação (URI) e Análise e Desenvolvimento de Sistemas (FAE). Gestor da empresa DATAWARE, pela qual é responsável pela infraestrutura de tecnologia de rede, servidores e nuvem de diversas empresas da região do Alto Uruguai. Profissional certificado ASSESPRO-RS em DPO e LGPD, é também Pós-graduado em Redes de Computadores e Mestre em Computação Aplicada (UPF) trabalhando com soluções embarcadas aplicadas ao campo de Engenharia Biomédica. Entusiasta de software livre, trabalhando com este de maneira profissional há quase duas décadas, tendo já contribuído em eventos da área.
 
 ### Consolidando Infraestrutura para implementação de Ubuntu como Desktop na PROCERGS
 
@@ -221,7 +221,7 @@ Descrever o cenário, como após implementar o Ubuntu como desktop Linux na PROC
 
 ### Thiago Boeira
 
-[Thiago Boeira](https://www.facebook.com/tcboeira) é Técnico em Redes pela Escola Técnica Maxwell. Teve o primeiro contato com Linux em Junho de 1998, MAS conhecer mesmo só a partir de 2003. Um trabalho especifico em 2009 e um projeto em 2010. Trabalhar efetivamente a partir de 2016. Atualmente trabalha na PROCERGS - desde 05/2013 - na área de Infraestrutura. Antes, trabalhando com TI desde final dos anos 90, hoje com ampla atuação em plataformas Microsoft.
+[**Thiago Boeira**](https://www.facebook.com/tcboeira) é Técnico em Redes pela Escola Técnica Maxwell. Teve o primeiro contato com Linux em Junho de 1998, MAS conhecer mesmo só a partir de 2003. Um trabalho especifico em 2009 e um projeto em 2010. Trabalhar efetivamente a partir de 2016. Atualmente trabalha na PROCERGS - desde 05/2013 - na área de Infraestrutura. Antes, trabalhando com TI desde final dos anos 90, hoje com ampla atuação em plataformas Microsoft.
 
 
 ### A jornada para o DevOps no âmbito militar: Lições aprendidas para uma automação bem sucedida
@@ -230,7 +230,7 @@ Com a constante evolução da Infraestrutura tradicional se faz necessário não
 
 ### Thiago Finardi
 
-[Thiago Finardi](https://www.linkedin.com/in/thiagofinardi/) possui Mestrando em Ciência da Computação, Especialista em Gestão de Segurança da Informação e Graduado em Sistemas de Informação. Profissional de TI com mais de 12 anos de experiência em infraestrutura computacional, GNU/Linux, segurança da informação, treinamento e suporte. Atualmente, executa o papel de Arquiteto de Soluções em Cloud Computing no Exército Brasileiro.
+[**Thiago Finardi**](https://www.linkedin.com/in/thiagofinardi/) possui Mestrando em Ciência da Computação, Especialista em Gestão de Segurança da Informação e Graduado em Sistemas de Informação. Profissional de TI com mais de 12 anos de experiência em infraestrutura computacional, GNU/Linux, segurança da informação, treinamento e suporte. Atualmente, executa o papel de Arquiteto de Soluções em Cloud Computing no Exército Brasileiro.
 
 Dentre os principais conhecimentos pertinentes a área de atuação estão: Next Generation Firewalls (Cisco, Palo Alto e F5 Networks); Cloud Computing (Azure, AWS e GCP); Ferramentas DevOps; Big Data; Machine Learning; Infraestrutura hibrida e; Serviços Cognitivos.
 
@@ -242,7 +242,7 @@ Explanação sobre a importância da arquitetura de infraestrutura em ambientes 
 
 ### Marcelo Veriato Lima
 
-[Marcelo Veriato Lima](https://www.linkedin.com/in/marcelo-veriato/) é CTO da empresa Adentro, trabalha a bons anos com tecnologias de código aberto e infraestruturas complexas. Responsável pela implementação de diversas estruturas de cloud pelo Brasil e exterior.
+[**Marcelo Veriato Lima**](https://www.linkedin.com/in/marcelo-veriato/) é CTO da empresa Adentro, trabalha a bons anos com tecnologias de código aberto e infraestruturas complexas. Responsável pela implementação de diversas estruturas de cloud pelo Brasil e exterior.
 
 ### Dicas e Ferramentas para montar seu primeiro modelo de negócios.
 
@@ -250,7 +250,7 @@ Nesta apresentação serão vistas algumas ferramentas e dicas para ajudar a cri
 
 ### Claudia Tomie Fujiya Sungaila
 
-[Claudia Tomie Fujiya Sungaila](https://www.linkedin.com/in/claudiasungaila/) é Co-Founder da SAVANT Tecnologia da Informação, Empreendedora, Advogada e Apaixonada por Educação e Soluções baseadas em Software Livre, Entusiasta do OpenStack, Linux, CEPH e soluções de Cloud Computing. Graduada em Direito pela USP. Especialização em Direito Eletrônico pelo IBMEC-SP. Formação Conectiva Linux em 2005. Capacitação: Empretec, Empreenda e Speed Mentoring Woman Tech e Edtech pelo Sebrae-SP. Palestrante convidada nos eventos: Sebrae-SP para Mulheres 2014; Apresentação do projeto TIC - Sebrae-SP 2017; Feira do Empreendedor 2018 - painel - Empresários de Sucesso; Flisol 2018 -  UFABC; Latinoware 2018; Semana de Tecnologia – ETEC - Embu das Artes 2018.
+[**Claudia Tomie Fujiya Sungaila**](https://www.linkedin.com/in/claudiasungaila/) é Co-Founder da SAVANT Tecnologia da Informação, Empreendedora, Advogada e Apaixonada por Educação e Soluções baseadas em Software Livre, Entusiasta do OpenStack, Linux, CEPH e soluções de Cloud Computing. Graduada em Direito pela USP. Especialização em Direito Eletrônico pelo IBMEC-SP. Formação Conectiva Linux em 2005. Capacitação: Empretec, Empreenda e Speed Mentoring Woman Tech e Edtech pelo Sebrae-SP. Palestrante convidada nos eventos: Sebrae-SP para Mulheres 2014; Apresentação do projeto TIC - Sebrae-SP 2017; Feira do Empreendedor 2018 - painel - Empresários de Sucesso; Flisol 2018 -  UFABC; Latinoware 2018; Semana de Tecnologia – ETEC - Embu das Artes 2018.
 
 ### Riscos e falhas
 
@@ -258,7 +258,7 @@ Todo projeto tem seus riscos, mas sabia que podemos reduzi-los sem parar de inov
 
 ### Marco Antonio Martins Junior (somatório)
 
-[Marco Antonio Martins Junior (somatório)](www.somatorio.org) é "Peão as a Service", entusiasta da cultura DevOps, organizador do DevOpsDays Porto Alegre, Docker community leader (Porto Alegre), fuçador convicto, roda praticamente tudo em containers.
+[**Marco Antonio Martins Junior (somatório)**](www.somatorio.org) é "Peão as a Service", entusiasta da cultura DevOps, organizador do DevOpsDays Porto Alegre, Docker community leader (Porto Alegre), fuçador convicto, roda praticamente tudo em containers.
 
 ### TI Verde para nós Nerds!
 
@@ -266,7 +266,7 @@ De uma forma potencialmente menos chata e inclusiva à ate quem não é de infor
 
 ### Luiz Rauber Rodrigues
 
-[Luiz Rauber Rodrigues](https://www.linkedin.com/in/luizrauber) é Empreendedor/ Professor/ Pesquisador a anos ligado a grupos de Software Livre, Startups, Gestão de Projetos e Educação; Atualmente é doutorando em Tecnologia Ambiental com tese em TI Verde e ACV-S de Smartphones na UNISC e professor de informática no Senac Santa Cruz do Sul; Fez Mestrado em Nanociências (UNIFRA) onde trabalhou com genética, especialização em Gerenciamento de Projetos na PUCRS com métodos ágeis e graduação em Ciência da Computação e Técnico Informática na URI-Santiago com sistemas web. Voluntário ao ecossistemas de Startups e eventos da área como Startup Weekend em algumas cidades e grupos/ eventos de Software Livre como FISL, Latinoware, Campus Party, FLISOL, Tchelinux.org, Code Clube Brasil e JabutiEDU.org.
+[**Luiz Rauber Rodrigues**](https://www.linkedin.com/in/luizrauber) é Empreendedor/ Professor/ Pesquisador a anos ligado a grupos de Software Livre, Startups, Gestão de Projetos e Educação; Atualmente é doutorando em Tecnologia Ambiental com tese em TI Verde e ACV-S de Smartphones na UNISC e professor de informática no Senac Santa Cruz do Sul; Fez Mestrado em Nanociências (UNIFRA) onde trabalhou com genética, especialização em Gerenciamento de Projetos na PUCRS com métodos ágeis e graduação em Ciência da Computação e Técnico Informática na URI-Santiago com sistemas web. Voluntário ao ecossistemas de Startups e eventos da área como Startup Weekend em algumas cidades e grupos/ eventos de Software Livre como FISL, Latinoware, Campus Party, FLISOL, Tchelinux.org, Code Clube Brasil e JabutiEDU.org.
 
 ### Phishing. Por que ainda caímos nesse golpe?
 
@@ -274,7 +274,7 @@ A palestra apresentará a técnica phishing adotada por crackers e trará uma di
 
 ### Élvis da Silva Steinbach
 
-[Élvis da Silva Steinbach](https://whitehatlinux.com) é formado em Análise e Desenvolvimento de Sistemas e Pós-graduado em Segurança da Informação. Trabalha atualmente como analista de sistemas e analista de SI. É autor do livro [White Hat Linux](https://whitehatlinux.com). 
+[**Élvis da Silva Steinbach**](https://whitehatlinux.com) é formado em Análise e Desenvolvimento de Sistemas e Pós-graduado em Segurança da Informação. Trabalha atualmente como analista de sistemas e analista de SI. É autor do livro [White Hat Linux](https://whitehatlinux.com). 
 
 
 ### Configure seu primeiro servidor VPS na nuvem
@@ -283,7 +283,7 @@ Aprenda a configurar do zero um VPS (Virtual Private Server) seguro e totalmente
 
 ### William Brendaw
 
-[William Brendaw](https://www.williambrendaw.com) é desenvolvedor há 8 anos, mesmo tempo em que utiliza software livre. Tem interesse em boas práticas de design de código, automatização de processos com Shell Script, criação e configuração de ambientes de desenvolvimento e projetos com Arduino. Atualmente é Desenvolvedor de Microsserviços Java Sênior na Compasso UOL Diveo, responsável pela implementação de serviços para grandes projetos no varejo online do Brasil.
+[**William Brendaw**](https://www.williambrendaw.com) é desenvolvedor há 8 anos, mesmo tempo em que utiliza software livre. Tem interesse em boas práticas de design de código, automatização de processos com Shell Script, criação e configuração de ambientes de desenvolvimento e projetos com Arduino. Atualmente é Desenvolvedor de Microsserviços Java Sênior na Compasso UOL Diveo, responsável pela implementação de serviços para grandes projetos no varejo online do Brasil.
 
 ### Detectando e Respondendo Incidentes de Segurança em Frontends Nginx Utilizando ELK
 
@@ -291,7 +291,7 @@ Nessa apresentação serão demonstrados casos reais de detecção e resposta a 
 
 ### Jerônimo Zucco
 
-[Jerônimo Zucco](https://www.twitter.com/jczucco) é Bacharel em Ciência da Computação pela Universidade de Caxias do Sul e Pós-Graduado em Gerência e Segurança de Redes de Computadores também pela UCS. Certificado CISSP (Certified Information Systems Secure Profissional), membro do projeto OWASP (Open Web Application Security Project) desde 2010. Já palestrou em diversos eventos sobre o tema segurança de sistemas: You Shot The Sheriff, FISL, Tchelinux, Python Brasil, ABIN, PoaSec, GTS e OWASP.
+[**Jerônimo Zucco**](https://www.twitter.com/jczucco) é Bacharel em Ciência da Computação pela Universidade de Caxias do Sul e Pós-Graduado em Gerência e Segurança de Redes de Computadores também pela UCS. Certificado CISSP (Certified Information Systems Secure Profissional), membro do projeto OWASP (Open Web Application Security Project) desde 2010. Já palestrou em diversos eventos sobre o tema segurança de sistemas: You Shot The Sheriff, FISL, Tchelinux, Python Brasil, ABIN, PoaSec, GTS e OWASP.
 
 ### Programação Solidity para Contratos Inteligentes
 
@@ -299,7 +299,7 @@ Solidity é uma linguagem de programação que permite desenvolver contratos int
 
 ### Rodrigo Rosa da Silva
 
-[Rodrigo Rosa da Silva](https://www.linkedin.com/in/rodrigo-rosa-da-silva-472928138/) possui graduação em Matemática (Licenciatura Plena) pela Universidade da Região da Campanha (URCAMP) em 2009 e Tecnologia em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação, Ciência e Tecnologia Sul-riograndense (IFSul) em 2018. Especialista em Metodologia do Ensino de Matemática e Física pela Faculdade Internacional de Curitiba (UNINTER) concluído em 2012. Atuou no GSI - Grupo de Estudos em Segurança de Sistemas e da Informação na Universidade Federal do Pampa (UNIPAMPA) e também desenvolveu atividades de pesquisa junto à EMBRAPA Pecuária Sul. É colaborador oficial do projeto Portugol Studio, na produção de materiais de ensino. Atualmente é aluno nos cursos de Especialização em Desenvolvimento Orientado a Objetos em JAVA pela UNICIV. Tem interesse na área de aprendizagem de máquina, mineração de dados, redes neurais artificiais, algoritmos genéticos, ensino de programação, desenvolvimento android, API(REST/RESTFull). Trabalha na Prefeitura Municipal de Bagé, no setor de GeoInformação com informações geográficas e desenvolvimento de sistemas WEB e mobile.
+[**Rodrigo Rosa da Silva**](https://www.linkedin.com/in/rodrigo-rosa-da-silva-472928138/) possui graduação em Matemática (Licenciatura Plena) pela Universidade da Região da Campanha (URCAMP) em 2009 e Tecnologia em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação, Ciência e Tecnologia Sul-riograndense (IFSul) em 2018. Especialista em Metodologia do Ensino de Matemática e Física pela Faculdade Internacional de Curitiba (UNINTER) concluído em 2012. Atuou no GSI - Grupo de Estudos em Segurança de Sistemas e da Informação na Universidade Federal do Pampa (UNIPAMPA) e também desenvolveu atividades de pesquisa junto à EMBRAPA Pecuária Sul. É colaborador oficial do projeto Portugol Studio, na produção de materiais de ensino. Atualmente é aluno nos cursos de Especialização em Desenvolvimento Orientado a Objetos em JAVA pela UNICIV. Tem interesse na área de aprendizagem de máquina, mineração de dados, redes neurais artificiais, algoritmos genéticos, ensino de programação, desenvolvimento android, API(REST/RESTFull). Trabalha na Prefeitura Municipal de Bagé, no setor de GeoInformação com informações geográficas e desenvolvimento de sistemas WEB e mobile.
 
 ### Insegurança na Internet
 
@@ -307,7 +307,7 @@ Estamos conectados cada vez mais, mas será que manter o padrão nos deixa segur
 
 ### Diego Luiz Silva da Costa
 
-[Diego Luiz Silva da Costa](https://wiki.projetoroot.com.br/) é o idealizador e mantenedor do Canal no YouTube Projeto Root, que nasceu, em maio de 2014, a partir de uma ideia sua ainda na graduação em Redes de Computadores, na Faculdade de Tecnologia SENAC Pelotas. O canal tem como propósito o ensino gratuito sobre Tecnologia, Software Livre, GNU-Linux, Redes de Computadores e Segurança da Informação.
+[**Diego Luiz Silva da Costa**](https://wiki.projetoroot.com.br/) é o idealizador e mantenedor do Canal no YouTube Projeto Root, que nasceu, em maio de 2014, a partir de uma ideia sua ainda na graduação em Redes de Computadores, na Faculdade de Tecnologia SENAC Pelotas. O canal tem como propósito o ensino gratuito sobre Tecnologia, Software Livre, GNU-Linux, Redes de Computadores e Segurança da Informação.
 
 ### Shell Script para Pentesters - Ethical Hacker
 
@@ -315,7 +315,7 @@ Ethical Hacker - Noções de Shell Script para criação de ferramentas própria
 
 ### Mateus Buogo
 
-[Mateus Buogo](https://letshack.com.br/) é Graduado em Redes de Computadores pelo Centro Universitário Faculdade de Tecnologia (Caxias do Sul, 2011) e especialização em MBA Administração de TI pela Universidade do Vale do Rio dos Sinos (São Leopoldo, 2013). Atualmente é Professor do UNIFTEC e Analista de Segurança. Pentester Profissional Certificado DCPT (Desec Certified Penetration Tester). Experiência na área de Segurança da Informação e Infraestrutura de Rede.
+[**Mateus Buogo**](https://letshack.com.br/) é Graduado em Redes de Computadores pelo Centro Universitário Faculdade de Tecnologia (Caxias do Sul, 2011) e especialização em MBA Administração de TI pela Universidade do Vale do Rio dos Sinos (São Leopoldo, 2013). Atualmente é Professor do UNIFTEC e Analista de Segurança. Pentester Profissional Certificado DCPT (Desec Certified Penetration Tester). Experiência na área de Segurança da Informação e Infraestrutura de Rede.
 
 ### Don't Repeat Yourself - Abstraindo funcionalidades com Jenkins Shared Libraries
 
@@ -323,7 +323,7 @@ Já dizia Robert C. Martin, "Duplication may be the root of all evil in software
 
 ### Robson Luiz Valim de Bittencourt
 
-[Robson Luiz Valim de Bittencourt](https://github.com/robsonbittencourt) é graduado em Sistemas de Informação, pela Facensa de Gravataí. Busca estar sempre a par das boas práticas de construção de software, como testes, Clean Code e Design Patterns. Gosta de estudar coisas novas, principalmente assuntos relacionados a Engenharia de Software, Devops e Métodos Ágeis. Procura repassar as coisas que aprendeu, e vem fazendo isso através de palestras e do seu blog.
+[**Robson Luiz Valim de Bittencourt**](https://github.com/robsonbittencourt) é graduado em Sistemas de Informação, pela Facensa de Gravataí. Busca estar sempre a par das boas práticas de construção de software, como testes, Clean Code e Design Patterns. Gosta de estudar coisas novas, principalmente assuntos relacionados a Engenharia de Software, Devops e Métodos Ágeis. Procura repassar as coisas que aprendeu, e vem fazendo isso através de palestras e do seu blog.
 
 
 ### Testes automatizados para servidores aarch64 em um datacenter
@@ -332,7 +332,7 @@ Como funcionam os testes em servidores, alguns que ainda não estão a venda (em
 
 ### Patrícia Domingues
 
-[Patrícia Domingues](https://www.linkedin.com/in/patriciadomin) atualmente trabalha como engenheira de software no time de Server Enablement da Canonical. É engenheira de computação pela Unipampa e mestra em engenharia elétrica/microeletrônica pela Unicamp. Trabalhou 2 anos como engenheira de software no Linux Technology Center da IBM. E durante a graduação fazia parte do TcheLinux Bagé! :)
+[**Patrícia Domingues**](https://www.linkedin.com/in/patriciadomin) atualmente trabalha como engenheira de software no time de Server Enablement da Canonical. É engenheira de computação pela Unipampa e mestra em engenharia elétrica/microeletrônica pela Unicamp. Trabalhou 2 anos como engenheira de software no Linux Technology Center da IBM. E durante a graduação fazia parte do TcheLinux Bagé! :)
 
 
 ### Container-Broker - Orquestrador de containers docker escrito em Ruby on Rails
@@ -341,7 +341,7 @@ Encoding de vídeo é uma tarefa pesada e que exige muito uso de CPU, dada a eno
 
 ### João Carlos Vieira
 
-[João Carlos Vieira](https://www.linkedin.com/in/joaocv3) é Desenvolvedor de Software na globo.com e graduando em Engenharia de Software na PUCRS.
+[**João Carlos Vieira**](https://www.linkedin.com/in/joaocv3) é Desenvolvedor de Software na globo.com e graduando em Engenharia de Software na PUCRS.
 
 ### OpenShift Container Platform - Overview
 
@@ -349,7 +349,7 @@ Será apresentado uma visão geral sobre os conceitos do OpenShift, Containers e
 
 ### Deivid Pilla
 
-[Deivid Pilla](https://www.linkedin.com/in/deividpilla/) atua como DevOps Engineer e consultor. Possui sólidos conhecimentos em Sistemas Linux, troubleshooting e hardening, Virtualização, cloud AWS e OpenStack, Containers Docker, Red Hat OpenShift, orquestração e gerenciamento de servidores, ferramentas de automação com Ansible e Puppet, Instrutor de cursos oficiais Red Hat desde 2015, é Certificado em Red Hat Certified Architect.
+[**Deivid Pilla**](https://www.linkedin.com/in/deividpilla/) atua como DevOps Engineer e consultor. Possui sólidos conhecimentos em Sistemas Linux, troubleshooting e hardening, Virtualização, cloud AWS e OpenStack, Containers Docker, Red Hat OpenShift, orquestração e gerenciamento de servidores, ferramentas de automação com Ansible e Puppet, Instrutor de cursos oficiais Red Hat desde 2015, é Certificado em Red Hat Certified Architect.
 
 
 ### Utilizando o Rocket Chat em container
@@ -358,7 +358,7 @@ Uma história sobre como um serviço Rocket Chat foi implementado sobre containe
 
 ### Fabricio Machado
 
-[Fabricio Machado](http://nerdseverino.com.br) é formando em Redes de computadores. Técnico em informática a 19 anos, atuou em empresas que prestaram serviços para Terra, Dell, Bettanin, Rudder. Trabalha atualmente como Sysadmin na empresa Interop prestando serviço para setor público como CEEE, Assembleia Legislativa e Justiça. Entusiasta de DevOps e participante dos meetups de docker.
+[**Fabricio Machado**](http://nerdseverino.com.br) é formando em Redes de computadores. Técnico em informática a 19 anos, atuou em empresas que prestaram serviços para Terra, Dell, Bettanin, Rudder. Trabalha atualmente como Sysadmin na empresa Interop prestando serviço para setor público como CEEE, Assembleia Legislativa e Justiça. Entusiasta de DevOps e participante dos meetups de docker.
 
 ### Prometheus 101
 
@@ -366,7 +366,7 @@ Gostaria de usar esse espaço pra falar sobre monitoramento através dos golden 
 
 ### Sebastian Webber
 
-[Sebastian Webber](http://swebber.me) é um profissional da area de TI com mais de 10 anos de experiência, especialmente em desenvolvimento de software e administração de banco de dados. Trabalha com PostgreSQL desde a versão 8.0 e hoje trabalha como Senior Database Engineer em alguns projetos.
+[**Sebastian Webber**](http://swebber.me) é um profissional da area de TI com mais de 10 anos de experiência, especialmente em desenvolvimento de software e administração de banco de dados. Trabalha com PostgreSQL desde a versão 8.0 e hoje trabalha como Senior Database Engineer em alguns projetos.
 
 Ama aprender novas tecnologias mas hoje se emociona criando ferramentas de automação usando a linguagem de programação Go e compartilhar minhas experiências nos eventos de TI. 
 
@@ -376,15 +376,15 @@ Vou fazer uma palestra sobre testes (tanto unitários quanto de integração) co
 
 ### Dennis Kaffer
 
-[Dennis Kaffer](https://github.com/deadkff01) é Desenvolvedor Front-End há mais de 6 anos, atualmente trabalha no Grupo RBS.
+[**Dennis Kaffer**](https://github.com/deadkff01) é Desenvolvedor Front-End há mais de 6 anos, atualmente trabalha no Grupo RBS.
 
 ### Introdução a Vue.js
 
-Esta apresentação tem por objetivo construir o ambiente para o desenvolvimento, utilizando o Framework Vue.js, ilustrando de forma prática, as principais utilizações de suas estruturas conforme o [manual oficial](https://vuejs.org/v2/guide/). Também oferecendo um panorama geral dos framework's e bibliotecas reativas de javascript que atualmente sustentam este mercado (Angular, React e Vue), em conjunto com uma base teórica sobre o funcionamento destas tecnologias.
+Esta apresentação tem por objetivo construir o ambiente para o desenvolvimento, utilizando o Framework Vue.js, ilustrando de forma prática, as principais utilizações de suas estruturas conforme o [manual oficial**](https://vuejs.org/v2/guide/). Também oferecendo um panorama geral dos framework's e bibliotecas reativas de javascript que atualmente sustentam este mercado (Angular, React e Vue), em conjunto com uma base teórica sobre o funcionamento destas tecnologias.
 
 ### João Pedro Sabbado Pereira
 
-[João Pedro Sabbado Pereira](https://www.linkedin.com/in/joão-pedro-sabbado-pereira-a41508128) é Software Designer na empresa Lorh Sistemas Eletrônicos. Formado como Analista de Sistemas focado em desenvolvimento web.
+[**João Pedro Sabbado Pereira**](https://www.linkedin.com/in/joão-pedro-sabbado-pereira-a41508128) é Software Designer na empresa Lorh Sistemas Eletrônicos. Formado como Analista de Sistemas focado em desenvolvimento web.
 
 ### Banco de Dados Livre: Elaborando soluções de qualidade para o seu projeto!
 
@@ -392,7 +392,7 @@ Nessa palestra, serão demonstrados casos de uso com operações em SQL, além d
 
 ### Willian Barreto Froes
 
-[Willian Barreto Froes](https://github.com/willian-froes) é Graduando em Análise e Desenvolvimento de Sistemas, atua recentemente como bolsista front-end na Compasso Tecnologia. Além disso, já palestrou em outros eventos Tchelinux.
+[**Willian Barreto Froes**](https://github.com/willian-froes) é Graduando em Análise e Desenvolvimento de Sistemas, atua recentemente como bolsista front-end na Compasso Tecnologia. Além disso, já palestrou em outros eventos Tchelinux.
 
 ### Qualidade Essencial para Projetos PHP
 
@@ -400,7 +400,7 @@ Escrever código-fonte, desenvolver sistemas e aplicações funcionais é fácil
 
 ### Er Galvão Abbott
 
-[Er Galvão Abbott]() é Presidente (2012–2017) da ABRAPHP (Associação Brasileira de Profissionais PHP), Diretor da PHP Conference Brasil, Evangelista e Contribuidor para a Linguagem, Evangelista Laminas Project, Embaixador Fedora LATAM, Professor Convidado (Especialista) de Pós-Graduação (PR e SC), 25+ anos desenvolvendo sistemas e aplicações com interface web, Palestrante em eventos nacionais e internacionais.
+[**Er Galvão Abbott**](https://www.galvao.eti.br/) é Presidente (2012–2017) da ABRAPHP (Associação Brasileira de Profissionais PHP), Diretor da PHP Conference Brasil, Evangelista e Contribuidor para a Linguagem, Evangelista Laminas Project, Embaixador Fedora LATAM, Professor Convidado (Especialista) de Pós-Graduação (PR e SC), 25+ anos desenvolvendo sistemas e aplicações com interface web, Palestrante em eventos nacionais e internacionais.
 
 ### Integração Contínua em Projetos PHP Utilizando Github Actions
 
@@ -412,7 +412,7 @@ Nessa talk veremos como funciona a integração contínua de um projeto PHP util
 
 ### Igor Santos
 
-[Igor Santos](https://www.twitter.com/IgorSantoos17) é Senior Software Developer na DBC Company, graduando em Sistemas de Informação, evangelista PHP, aspirante a escritor, coordenador da comunidade PHPRS, criador de ElePHPants e Gamer nas horas vagas ;) Apaixonado por tecnologia, games e um bom Nerd.
+[**Igor Santos**](https://www.twitter.com/IgorSantoos17) é Senior Software Developer na DBC Company, graduando em Sistemas de Informação, evangelista PHP, aspirante a escritor, coordenador da comunidade PHPRS, criador de ElePHPants e Gamer nas horas vagas ;) Apaixonado por tecnologia, games e um bom Nerd.
 
 ### PHP SSO no Zentyal
 
@@ -420,7 +420,7 @@ Vamos ver os desafios de fazer um sistema de autenticação usando LDAP e permis
 
 ### Jackson Ferreira de Andrade Mafra
 
-[Jackson Ferreira de Andrade Mafra](about.me/jacksonfdam) é Palestrante, Professor, desenvolvedor web a mais de 25 anos.
+[**Jackson Ferreira de Andrade Mafra**](about.me/jacksonfdam) é Palestrante, Professor, desenvolvedor web a mais de 25 anos.
 
 ### Uma Não-Gentil Introdução ao Stream Processing
 
@@ -428,7 +428,7 @@ Stream Processing -- não relacionado com o stream de vídeos -- é uma forma de
 
 ### Julio Biason
 
-[Julio Biason](https://functional.cafe/@juliobiason) é desenvolvedor desde os 12 anos e trabalhou num sistema de stream processing para processar até 100.000 logs por segundo.
+[**Julio Biason**](https://functional.cafe/@juliobiason) é desenvolvedor desde os 12 anos e trabalhou num sistema de stream processing para processar até 100.000 logs por segundo.
 
 ### Por que a galinha atravessou a rua?
 
@@ -436,7 +436,7 @@ Nessa palestra desenvolveremos um ambiente semelhante ao clássico jogo Freeway,
 
 ### Alan Mussoi
 
-[Alan Mussoi](https://www.linkedin.com/in/alanmussoi/) é Analista de Sistemas e estudante de Matemática Computacional. Entusiasta de Ciência e Tecnologia. Possui grande interesse por assuntos relacionados a modelos matemáticos, simuladores e inteligência artificial.
+[**Alan Mussoi**](https://www.linkedin.com/in/alanmussoi/) é Analista de Sistemas e estudante de Matemática Computacional. Entusiasta de Ciência e Tecnologia. Possui grande interesse por assuntos relacionados a modelos matemáticos, simuladores e inteligência artificial.
 
 ### Uma API Responsa
 
@@ -444,7 +444,7 @@ Passando por diversas ferramentas, botando a mão na massa, vamos criar uma API 
 
 ### Rafael Guterres Jeffman
 
-[Rafael Guterres Jeffman](https://github.com/rafasgj) é Desenvolvedor, Fotógrafo e Professor, formado em Ciência da Computação e mestre em Computação Aplicada pela Unisinos, atualmente trabalha com Identity Management (FreeIPA) e no desenvolvimento de um ambiente open source para fotografia profissional. É o irresponsável por trás do desenvolvimento dos sistemas do Tchelinux.
+[**Rafael Guterres Jeffman**](https://github.com/rafasgj) é Desenvolvedor, Fotógrafo e Professor, formado em Ciência da Computação e mestre em Computação Aplicada pela Unisinos, atualmente trabalha com Identity Management (FreeIPA) e no desenvolvimento de um ambiente open source para fotografia profissional. É o irresponsável por trás do desenvolvimento dos sistemas do Tchelinux.
 
 ### Desenvolvendo Jogos com PyGame
 
@@ -452,7 +452,7 @@ Jogar todo mundo joga. Programar, todo mundo pode. Jogar todo mundo treina. Prog
 
 ### Jerônimo Medina Madruga
 
-[Jerônimo Medina Madruga](https://coderkai.org) trabalha com suporte técnico e treinamento para educação a distância da Universidade Federal de Pelotas (UFPel). Tem formação em Técnico em Eletrônica pelo Instituto Federal Sul-Rio-Grandense (IFSUL), Tecnólogo em Marketing pelo Centro Universitário de Maringá (UniCesumar) e é ocasionalmente atuante em grupos ligados a divulgação e desenvolvimento de software livre. Já realizou mais de 70 palestras em eventos internacionais, nacionais e regionais, sobre os temas mais variados possíveis, normalmente ligados a educação, programação, comunidades, CMS e administração de sistemas.
+[**Jerônimo Medina Madruga**](https://coderkai.org) trabalha com suporte técnico e treinamento para educação a distância da Universidade Federal de Pelotas (UFPel). Tem formação em Técnico em Eletrônica pelo Instituto Federal Sul-Rio-Grandense (IFSUL), Tecnólogo em Marketing pelo Centro Universitário de Maringá (UniCesumar) e é ocasionalmente atuante em grupos ligados a divulgação e desenvolvimento de software livre. Já realizou mais de 70 palestras em eventos internacionais, nacionais e regionais, sobre os temas mais variados possíveis, normalmente ligados a educação, programação, comunidades, CMS e administração de sistemas.
 
 ### Flask and you
 
@@ -460,7 +460,7 @@ A ideia é apresentar o Flask de maneira geral, suas possíveis aplicações. Ut
 
 ### Luciano Camargo Cruz
 
-[Luciano Camargo Cruz](https://github.com/lccruz) atua como Software Developer, DevOps e Team Leader na Contentools. Possuí formação em Gestão Estratégica de Tecnologia da Informação pela IMED e Bacharel em Ciência da Computação pela Universidade de Caxias do Sul. Trabalha com software livre a mais de 15 anos. É membro da Associação Python Brasil (APyB) e Plone Foundation.
+[**Luciano Camargo Cruz**](https://github.com/lccruz) atua como Software Developer, DevOps e Team Leader na Contentools. Possuí formação em Gestão Estratégica de Tecnologia da Informação pela IMED e Bacharel em Ciência da Computação pela Universidade de Caxias do Sul. Trabalha com software livre a mais de 15 anos. É membro da Associação Python Brasil (APyB) e Plone Foundation.
 
 ### Python para Análise de Dados
 
@@ -468,7 +468,7 @@ Conversaremos sobre como o Python vem se destacando e crescendo em meio ao avan�
 
 ### Andrius Jaques
 
-[Andrius Jaques](https://www.linkedin.com/in/andriusjaques/) é Analista de Dados na Analisar.net. Programador além do trabalho, recentemente está retomando projetos do mundo opensource. Também é um entusiasta para projetos ligados a Dados Abertos.
+[**Andrius Jaques**](https://www.linkedin.com/in/andriusjaques/) é Analista de Dados na Analisar.net. Programador além do trabalho, recentemente está retomando projetos do mundo opensource. Também é um entusiasta para projetos ligados a Dados Abertos.
 
 ### Golang: a sua nova linguagem de programação favorita
 
@@ -476,7 +476,7 @@ A linguagem de programação Golang (Go para os íntimos) foi anunciada no ano d
 
 ### Ricardo Robaina
 
-[Ricardo Robaina](https://github.com/robainaricardo) é bacharel em Engenharia de Computação pela Universidade Federal do Pampa, foi honrado com o prêmio SBC como aluno destaque de sua turma. Apaixonado por computação e por Software Livre, possui experiência com desenvolvimento de simuladores, jogos sérios, classificadores e aplicações móveis, além de trabalhos relacionados ao desenvolvimento de aceleradores de hardware e co-design. Atualmente é mestrando no Programa de Pós-Graduação em Computação Aplicada (PPGCAP) da UNIPAMPA e voluntário do Tchelinux.
+[**Ricardo Robaina**](https://github.com/robainaricardo) é bacharel em Engenharia de Computação pela Universidade Federal do Pampa, foi honrado com o prêmio SBC como aluno destaque de sua turma. Apaixonado por computação e por Software Livre, possui experiência com desenvolvimento de simuladores, jogos sérios, classificadores e aplicações móveis, além de trabalhos relacionados ao desenvolvimento de aceleradores de hardware e co-design. Atualmente é mestrando no Programa de Pós-Graduação em Computação Aplicada (PPGCAP) da UNIPAMPA e voluntário do Tchelinux.
 
 ### Desmistificando o compilador Go: a jornada do func main() até o go run
 
@@ -486,15 +486,15 @@ Por trás de um simples comando como “go run hello.go” existe toda uma compl
 
 ### Alex Garzão
 
-[Alex Garzão](https://github.com/alexgarzao) é apaixonado pela área de desenvolvimento de software. Atuou com o projeto e desenvolvimento de várias soluções inovadoras, indo de simples aplicações para desktop até complexas e grandes soluções que lidam com milhares de dados e usuários todos os dias. Curte áreas como compiladores, geradores de código, testes automatizados, máquinas virtuais, linguagens de programação, entre outras. Atualmente atua como Projetista de Software na Zenvia.
+[**Alex Garzão**](https://github.com/alexgarzao) é apaixonado pela área de desenvolvimento de software. Atuou com o projeto e desenvolvimento de várias soluções inovadoras, indo de simples aplicações para desktop até complexas e grandes soluções que lidam com milhares de dados e usuários todos os dias. Curte áreas como compiladores, geradores de código, testes automatizados, máquinas virtuais, linguagens de programação, entre outras. Atualmente atua como Projetista de Software na Zenvia.
 
 ### Primeiros passos com a Linguagem Lua
 
-De acordo com o [site oficial](), "Lua é uma linguagem de programação poderosa, eficiente e leve, projetada para estender aplicações. Ela permite programação procedural, programação orientada a objetos, programação funcional, programação orientada a dados e descrição de dados". Nesta apresentação veremos o motivo pelo qual esta incrível linguagem vem sendo adotada em diversos segmentos, desde o desenvolvimento de jogos até gateways API de altíssima performance.
+De acordo com o [site oficial**](), "Lua é uma linguagem de programação poderosa, eficiente e leve, projetada para estender aplicações. Ela permite programação procedural, programação orientada a objetos, programação funcional, programação orientada a dados e descrição de dados". Nesta apresentação veremos o motivo pelo qual esta incrível linguagem vem sendo adotada em diversos segmentos, desde o desenvolvimento de jogos até gateways API de altíssima performance.
 
 ### João Avelino Bellomo Filho
 
-[João Avelino Bellomo Filho](https://www.linkedin.com/in/jo%C3%A3o-avelino-bellomo-filho-0b2229a/) é Tecnólogo em Processamento de Dados pela Universidade Católica de Pelotas, Mestre em Ciência da Computação pela Universidade Federal do Rio Grande do Sul. É usuário de Fedora Linux e atualmente é Desenvolvedor na Azion Technologies.
+[**João Avelino Bellomo Filho**](https://www.linkedin.com/in/jo%C3%A3o-avelino-bellomo-filho-0b2229a/) é Tecnólogo em Processamento de Dados pela Universidade Católica de Pelotas, Mestre em Ciência da Computação pela Universidade Federal do Rio Grande do Sul. É usuário de Fedora Linux e atualmente é Desenvolvedor na Azion Technologies.
 
 ### Estendendo o NGINX com Lua
 
@@ -502,7 +502,7 @@ Há alguns anos o NGINX é o HTTP server mais utilizado no mundo, mas isso não 
 
 ### Vinicius "Sigfreddi" Mignot
 
-[Vinicius "Sigfreddi" Mignot](https://github.com/locao) ganhou um computador ao invés de uma guitarra porque traria companhias melhores. Seus pais perceberam o erro quando foi suspenso pela insistência em sabotar a rede da escola. Desenvolvendo para ambientes Unix há mais de 20 anos hoje emprega seu conhecimento para atividades mais nobres, como contribuir para o API gateway da Kong.
+[**Vinicius "Sigfreddi" Mignot**](https://github.com/locao) ganhou um computador ao invés de uma guitarra porque traria companhias melhores. Seus pais perceberam o erro quando foi suspenso pela insistência em sabotar a rede da escola. Desenvolvendo para ambientes Unix há mais de 20 anos hoje emprega seu conhecimento para atividades mais nobres, como contribuir para o API gateway da Kong.
 
 ### Enferrujando a Web
 
@@ -510,7 +510,7 @@ Uma introdução ao uso de Rust com Webassembly. Durante a palestra será aprese
 
 ### Michel Martinez
 
-[Michel Martinez](https://github.com/michelsmartinez) desenvolve em mais de uma linguagem, mas sempre com um toque de baixo nível, focando em C, mas já trabalhou com Python, JS, Java e front em geral (gostando muito de Vue). Trabalha hoje com desenvolvimento na área de TEF na Linx, mais espeficamente nas libs clients de pagamento. Conheceu o Rust a cerca de um ano e venho estudando e utilizando sempre que posso no meu trabalho e em projetos pessoais. Trabalhou bastante com eletrônica, embarcados e IOT, mas hoje trabalho com equipamentos de pagamento principalmente. Estudou engenharia de controle e automação mas acabou migrando para análise e desenvolvimento de sistemas. Usuário Linux a cerca de 7 anos (mas tendo contatos anteriores) e entusiasta de Open Source.
+[**Michel Martinez**](https://github.com/michelsmartinez) desenvolve em mais de uma linguagem, mas sempre com um toque de baixo nível, focando em C, mas já trabalhou com Python, JS, Java e front em geral (gostando muito de Vue). Trabalha hoje com desenvolvimento na área de TEF na Linx, mais espeficamente nas libs clients de pagamento. Conheceu o Rust a cerca de um ano e venho estudando e utilizando sempre que posso no meu trabalho e em projetos pessoais. Trabalhou bastante com eletrônica, embarcados e IOT, mas hoje trabalho com equipamentos de pagamento principalmente. Estudou engenharia de controle e automação mas acabou migrando para análise e desenvolvimento de sistemas. Usuário Linux a cerca de 7 anos (mas tendo contatos anteriores) e entusiasta de Open Source.
 
 ### Rust para Linux Embarcados
 
@@ -518,7 +518,7 @@ Nessa palestra será apresentada a linguagem Rust, abordando pontos gerais como 
 
 ### Jonathas Augusto de Oliveira Conceição
 
-[Jonathas Augusto de Oliveira Conceição](github.com/Jonathas-Conceicao/) tem formação em Ciência da Computação (UFPel) e é Software Developer na O.S. Systems, o nde atua com desenvolvimento back-end para sistemas embarcados.
+[**Jonathas Augusto de Oliveira Conceição**](github.com/Jonathas-Conceicao/) tem formação em Ciência da Computação (UFPel) e é Software Developer na O.S. Systems, o nde atua com desenvolvimento back-end para sistemas embarcados.
 
 
 ### Introdução ao Desenvolvimento Móvel com Ionic
@@ -527,7 +527,7 @@ Existem duas formas de desenvolver aplicações para dispositivos móveis, utili
 
 ### Rafael Guterres Jeffman
 
-[Rafael Guterres Jeffman](https://github.com/rafasgj) é parte do time de desenvolvimento do FreeIPA (Red Hat), fotógrafo e impressor. Entre os projetos pessoais atuais estão, um conjunto de ferramentas para fotografia profissional open source, uma linguagem para o ensino de design de jogos, uma linguagem para a criação de aperesentações, e um framework que explora o paralelismo massivo para criação de aplicações multimídia. Quando dá tempo e é cobrado, desenvolve os sistemas de backend do Tchelinux, e os piores frontends do mundo.
+[**Rafael Guterres Jeffman**](https://github.com/rafasgj) é parte do time de desenvolvimento do FreeIPA (Red Hat), fotógrafo e impressor. Entre os projetos pessoais atuais estão, um conjunto de ferramentas para fotografia profissional open source, uma linguagem para o ensino de design de jogos, uma linguagem para a criação de aperesentações, e um framework que explora o paralelismo massivo para criação de aplicações multimídia. Quando dá tempo e é cobrado, desenvolve os sistemas de backend do Tchelinux, e os piores frontends do mundo.
 
 
 ### Nativo, híbrido ou PWA?  O que escolher para seu app?
@@ -536,7 +536,7 @@ Nativo ou híbrido ou PWA? Hoje são várias as opções para quem quer desenvol
 
 ### Jefferson Cardoso
 
-[Jefferson Cardoso](https://www.linkedin.com/in/jefferson-cardoso/) é desenvolvedor desde 2014. Atua como Líder Técnico na Fundação CANOASTEC, desenvolvendo sistemas para a Prefeitura de Canoas. É também bacharelando em Ciência da Computação pela Universidade Feevale, onde trabalha com pesquisa.
+[**Jefferson Cardoso**](https://www.linkedin.com/in/jefferson-cardoso/) é desenvolvedor desde 2014. Atua como Líder Técnico na Fundação CANOASTEC, desenvolvendo sistemas para a Prefeitura de Canoas. É também bacharelando em Ciência da Computação pela Universidade Feevale, onde trabalha com pesquisa.
 
 ### Migrando do complexo Java para o simplificado Kotlin
 
@@ -544,7 +544,7 @@ Vou trocar uma ideia sobre minha experiencia e de alguns amigos da área que ap�
 
 ### Filipe Nunes
 
-[Filipe Nunes](https://github.com/ksdrof500) é Mobile Specialist, desenvolvedor aos 14 anos. Organizador do GDG Porto Alegre e Leader Jam da Google. Evangelista do open source, envolvido em projetos como FISL e HacktoberFest, Google IO Extend, Congressos de TI, TDCs e DevFests. Participante de projetos e empresas como IBM, SAP, Warren, Grupo RBS dentre outras.
+[**Filipe Nunes**](https://github.com/ksdrof500) é Mobile Specialist, desenvolvedor aos 14 anos. Organizador do GDG Porto Alegre e Leader Jam da Google. Evangelista do open source, envolvido em projetos como FISL e HacktoberFest, Google IO Extend, Congressos de TI, TDCs e DevFests. Participante de projetos e empresas como IBM, SAP, Warren, Grupo RBS dentre outras.
 
 ### Coroutines vs RX
 
@@ -552,7 +552,7 @@ Programadores Android estão se aproximando do Kotlin, uma linguagem de programa
 
 ### Filipe Nunes
 
-[Filipe Nunes](https://github.com/ksdrof500) é Mobile Specialist, desenvolvedor aos 14 anos. Organizador do GDG Porto Alegre e Leader Jam da Google. Evangelista do open source, envolvido em projetos como FISL e HacktoberFest, Google IO Extend, Congressos de TI, TDCs e DevFests. Participante de projetos e empresas como IBM, SAP, Warren, Grupo RBS dentre outras.
+[**Filipe Nunes**](https://github.com/ksdrof500) é Mobile Specialist, desenvolvedor aos 14 anos. Organizador do GDG Porto Alegre e Leader Jam da Google. Evangelista do open source, envolvido em projetos como FISL e HacktoberFest, Google IO Extend, Congressos de TI, TDCs e DevFests. Participante de projetos e empresas como IBM, SAP, Warren, Grupo RBS dentre outras.
 
 ### Flutter Live Code - Criando um app lindo em 45 minutos
 
@@ -560,7 +560,7 @@ Nessa apresentação demonstrarei a produtividade e o resultado que podemos obte
 
 ### João Rutkoski
 
-[João Rutkoski](https://www.linkedin.com/in/joaortk)
+[**João Rutkoski**](https://www.linkedin.com/in/joaortk)
 
 
 ### Flutter + Hasura
@@ -569,16 +569,16 @@ Vou mostrar o que é o Hasura e como utiliza-lo e irei mostrar como a dupla Flut
 
 ### Vilson Dauinheimer
 
-[Vilson Dauinheimer](https://www.linkedin.com/in/vilsonblanco/) é Co-Fundador da Comunidade Flutterando uma das maiores comunidade de Flutter do brasil. Formado em Análise e Desenvolvimento de Sistemas, sempre foi aficionado por poder tirar algo da sua mente e torna-lo palpável, começou na área Metal-Mecânica transformando barras de ferro em peças, e agora na área de Ti transformando idéias em aplicativos.
+[**Vilson Dauinheimer**](https://www.linkedin.com/in/vilsonblanco/) é Co-Fundador da Comunidade Flutterando uma das maiores comunidade de Flutter do brasil. Formado em Análise e Desenvolvimento de Sistemas, sempre foi aficionado por poder tirar algo da sua mente e torna-lo palpável, começou na área Metal-Mecânica transformando barras de ferro em peças, e agora na área de Ti transformando idéias em aplicativos.
 
 ## Apoio
 
 ### Institucional
 
-[![Faculdade SENAC Porto Alegre](images/FSPOA.png)](http://senacrs.com.br/unidades.asp?unidade=63)
+[**![Faculdade SENAC Porto Alegre**](images/FSPOA.png)](http://senacrs.com.br/unidades.asp?unidade=63)
 
 ### Divulgação
 
-[![Blog Diolinux](images/logo_diolinux.png)](https://www.diolinux.com.br/)
-[![Projeto Root](images/logo_projetoroot.png)](https://projetoroot.com.br/)
-[![PHP Conference Brasil](images/logo_phpconference.png)](https://phpconference.com.br/)
+[**![Blog Diolinux**](images/logo_diolinux.png)](https://www.diolinux.com.br/)
+[**![Projeto Root**](images/logo_projetoroot.png)](https://projetoroot.com.br/)
+[**![PHP Conference Brasil**](images/logo_phpconference.png)](https://phpconference.com.br/)
