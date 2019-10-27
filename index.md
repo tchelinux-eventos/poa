@@ -4,12 +4,6 @@
 
 O grupo de usuários de Software Livre Tchelinux, em parceria com a [**Faculdade SENAC Porto Alegre**](http://senacrs.com.br/unidades.asp?unidade=63), tem o prazer de convidar a comunidade para participar do evento que ocorrerá no dia **14 de Dezembro de 2019 a partir das 8:00h** na FSPOA em Porto Alegre.
 
-## Chamada de Trabalhos
-
-A Chamada de Trabalhos está aberta e o **prazo para submissão** de propostas de palestra é **20 de Outubro de 2019**. Os trabalhos escolhidos serão anúnciados no dia **26 de Outubro de 2019**.
-
-<center><a href="https://poa.tchelinux.org/cfp/" style="color:#ff4040"><h3><b>Clique aqui e submeta sua palestra agora mesmo!</b></h3></a></center>
-
 ## Inscrições
 
 As inscrições estarão abertas a partir do dia **26 de Outubro de 2019**, quando a programação do evento for anunciada.
