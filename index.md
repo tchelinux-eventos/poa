@@ -6,7 +6,7 @@ O grupo de usuários de Software Livre Tchelinux, em parceria com a [**Faculdade
 
 ## Inscrições
 
-O evento tem entrada franca, porém os participantes são encorajados a doar 2kg de alimentos não perecíveis (exceto sal), que são encaminhados ao Banco de Alimentos de Pelotas. Os alimentos serão recebidos no momento do credenciamento.
+O evento tem entrada franca, porém os participantes são encorajados a doar 2kg de alimentos não perecíveis (exceto sal), que são encaminhados ao Banco de Alimentos de Porto Alegre. Os alimentos serão recebidos no momento do credenciamento.
 
 <center><a href="https://poa.tchelinux.org/inscricoes/" style="color:#ff4040"><b><h3>Clique aqui e faça sua inscrição!<h3></b></a></center>
 
