@@ -47,8 +47,16 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 
 [![Faculdade SENAC Porto Alegre](images/FSPOA.png)](http://senacrs.com.br/unidades.asp?unidade=63)
 
+### Patrocínio
+
+[![O.S.Systems](images/logo_ossystems.png)](https://www.ossystems.com.br/)
+
+[![DevOps Days](images/logo_devopsdays.png)](https://cfp.devopsdays.com.br/poa2020/)
+[![Azion](images/logo_azion.png)](https://www.azion.com/en/)
+[![Adentro Datacenter Solutions](images/logo_adentro.png)](https://www.adentrocloud.com.br/)
+
 ### Divulgação
 
-[![Blog Diolinux](images/logo_diolinux.png)](https://www.diolinux.com.br/)
 [![Projeto Root](images/logo_projetoroot.png)](https://projetoroot.com.br/)
 [![PHP Conference Brasil](images/logo_phpconference.png)](https://phpconference.com.br/)
+[![PyTchê](images/logo_pytche.png)](https://pytche-site.readthedocs.io/en/latest/)
