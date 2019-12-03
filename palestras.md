@@ -581,7 +581,7 @@ Vou mostrar o que é o Hasura e como utiliza-lo e irei mostrar como a dupla Flut
 [![O.S.Systems](images/logo_ossystems.png)](https://www.ossystems.com.br/)
 
 [![DevOps Days](images/logo_devopsdays.png)](https://cfp.devopsdays.com.br/poa2020/)
-[![Azion](images/logo_azion.png)](https://www.azion.com/en/)
+[![Azion](images/logo_azion.png)](https://www.azion.com/)
 [![Adentro Datacenter Solutions](images/logo_adentro.png)](https://www.adentrocloud.com.br/)
 
 ### Divulgação
