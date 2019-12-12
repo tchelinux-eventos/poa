@@ -8,7 +8,9 @@ O grupo de usuários de Software Livre Tchelinux, em parceria com a [**Faculdade
 
 O evento tem entrada franca, porém os participantes são encorajados a doar 2kg de alimentos não perecíveis (exceto sal), que são encaminhados ao Banco de Alimentos de Porto Alegre. Os alimentos serão recebidos no momento do credenciamento.
 
-<center><a href="https://poa.tchelinux.org/inscricoes/" style="color:#ff4040"><b><h3>Clique aqui e faça sua inscrição!<h3></b></a></center>
+> **Importante** As inscrições pelo site foram encerradas, todavia é possível se inscrever no local do evento.
+> 
+> Caso você tenha interesse em participar, compareça na Faculdade SENAC Porto Alegre (Coronel Genuíno, 130 - Centro Histórico) no Sábado dia 14 de Dezembro a partir das 8:30 e faça sua inscrição no local.
 
 ## Certificados
 
