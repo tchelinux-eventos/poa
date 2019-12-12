@@ -52,6 +52,8 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 ### Patrocínio
 
 [![O.S.Systems](images/logo_ossystems.png)](https://www.ossystems.com.br/)
+[![Rust in POA](images/logo_rust.png)](https://www.meetup.com/Rust-in-POA/)
+[![PyTchê](images/logo_pytche.png)](https://pytche-site.readthedocs.io/en/latest/)
 
 [![DevOps Days](images/logo_devopsdays.png)](https://cfp.devopsdays.com.br/poa2020/)
 [![Azion](images/logo_azion.png)](https://www.azion.com/)
